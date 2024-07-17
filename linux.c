@@ -7,3 +7,6 @@ echo "hello"
 pwd
 rmdir file1
 rmdir file2
+df -h
+cat file10.txt
+ln -s file1 file2
